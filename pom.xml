@@ -11,10 +11,6 @@
   <name>Workspace Root</name>
   <description>Parent project managing nested components</description>
 
-  <modules>
-    <module>nested_project</module>
-  </modules>
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>17</maven.compiler.release>
