@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>workspace_root</name>
+	<name>mypackage_mytarget</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,9 +22,9 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>.eclipse/linked-srcs/com/example/HelloWorld.java</name>
+			<name>linked-srcs/com/packages/foo/File.java</name>
 			<type>1</type>
-			<location>/Users/anqihuang/code/nestedprojectlinked/src/com/example/HelloWorld.java</location>
+			<location>/Users/anqihuang/code/nestedprojectlinked/com/packages/foo/File.java</location>
 		</link>
 	</linkedResources>
 	<filteredResources>

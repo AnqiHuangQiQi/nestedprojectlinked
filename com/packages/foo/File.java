@@ -1,6 +1,6 @@
-package com.example;
+package com.packages.foo;
 
-public class HelloWorld
+public class File
 {
     public static void main(String[] args)
     {

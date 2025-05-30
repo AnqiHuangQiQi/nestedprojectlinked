@@ -3,13 +3,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.example</groupId>
-  <artifactId>nested_project</artifactId>
+  <groupId>com.package.foo</groupId>
+  <artifactId>mypackage_mytarget</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging> <!-- Defines this as a parent POM -->
 
-  <name>Nested Project</name>
-  <description>A nested Eclipse project with linked resources</description>
+  <name>My Package My Target</name>
+  <description>Nested project</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -88,5 +88,4 @@
     </pluginManagement>
   </build>
 </project>
-
 
